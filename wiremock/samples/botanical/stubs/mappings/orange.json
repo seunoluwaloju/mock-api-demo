@@ -1,0 +1,10 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/api/v1/botanical?id=2"
+  },
+  "response": {
+    "status": 200,
+    "bodyFileName": "orange.json"
+  }
+}
