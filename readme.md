@@ -58,4 +58,4 @@ docker run -it --rm -p 8081:8081 wiremock-fruit
 - To test with wiremock, you can change the botanical service url to point to wiremock-botanical [http://localhost:8080/api/v1/botanical](http://localhost:8080/api/v1/botanical)
 - Alternatively, you can use [Charles Proxy](https://www.charlesproxy.com/) to forward requests for a specific id from botanical service to wiremock-botanical
     - To make Charles setting got to **_Tools_** -> **_Map Remote_** -> **_Add_**
-    - ![Charles setting](charles/map-remote-settings.png?raw=true)
+    - ![Charles setting](https://github.com/seunoluwaloju/mock-api-demo/blob/master/charles/map-remote-settings.png?raw=true)
