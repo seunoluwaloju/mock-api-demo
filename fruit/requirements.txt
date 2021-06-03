@@ -7,7 +7,7 @@ idna==2.10
 itsdangerous==1.1.0
 Jinja2==2.11.2
 jsonrpclib==0.1.7
-markdown2==2.3.9
+markdown2==2.4.0
 MarkupSafe==1.1.1
 mock-server==0.3.9
 py-bcrypt==0.4
